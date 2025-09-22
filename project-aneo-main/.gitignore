@@ -1,0 +1,13 @@
+.venv/
+__pycache__/
+
+*.png
+*.json
+*.zip
+*.log
+
+input_data/
+output_data/
+figures/
+python/
+bindings/
